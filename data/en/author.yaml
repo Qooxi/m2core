@@ -6,8 +6,10 @@ greeting: "Step up with - "
 image: "images/author/m2-core1.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  discord: voooxy0018
-  email: "m2core@gmail.com"
+  discord: Qooxi
+  email: "m2-core@gmail.com"
+  github: Qooxi
+  linkedin: Qooxi
   
 # some summary about what you do
 summary:
