@@ -23,7 +23,7 @@ It is possible to further develop the system, allowing us to get additional item
 {{< /alert >}}
 
 ## Demonstration
-{{< img src="/posts/systems/gameplay/alchemist-recipes/images/demonstration-photo.png" align="center" title="demonstration">}}
+{{< img src="/posts/player-activity/alchemist-recipes/images/demonstration-photo.png" align="center" title="demonstration">}}
 
 ## Settings
 > The system configuration is in the `.xml` file. You can reload configuration in real time.

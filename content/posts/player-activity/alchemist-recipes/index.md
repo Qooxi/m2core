@@ -20,7 +20,7 @@ hero: images/main-photo.png
 > This system allows you to define any number of required item types for a specific ID. This means that we can utilize the same system with different required items for different NPCs or missions, etc.
 > Upon returning the required item, our character will permanently receive its attributes.
 ## Demonstration
-{{< img src="/posts/systems/gameplay/alchemist-recipes/images/demonstration-photo.png" align="center" title="demonstration">}}
+{{< img src="/posts/player-activity/alchemist-recipes/images/demonstration-photo.png" align="center" title="demonstration">}}
 
 ## Settings
 > The system configuration is in the `.xml` file. You can reload configuration in real time.
@@ -36,8 +36,8 @@ hero: images/main-photo.png
 ```
 
 > To make everything clear and easy to set up without unnecessary problems, the configurations responsible for returning a specific item are set in item_proto.
-{{< img src="/posts/systems/gameplay/alchemist-recipes/images/settings-proto.png" align="center" title="proto">}}
-{{< img src="/posts/systems/gameplay/alchemist-recipes/images/settings-proto-declarations.png" align="center" title="proto-declarations">}}
+{{< img src="/posts/player-activity/alchemist-recipes/images/settings-proto.png" align="center" title="proto">}}
+{{< img src="/posts/player-activity/alchemist-recipes/images/settings-proto-declarations.png" align="center" title="proto-declarations">}}
 
 ## Functionality
 > Thanks to the flexibility of the system, you can specify for each item:
