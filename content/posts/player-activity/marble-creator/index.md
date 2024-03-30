@@ -3,7 +3,6 @@ title: "Marble Creator"
 date: 2024-03-22T17:04:00+06:00
 description: --
 price: 150
-discount: 50
 menu:
   sidebar:
     name: Marble Creator

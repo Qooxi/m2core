@@ -2,8 +2,7 @@
 title: "Renewal Editline"
 date: 2024-03-22T17:04:00+06:00
 description: --
-price: 150
-discount: 50
+price: 200
 menu:
   sidebar:
     name: Renewal Editline

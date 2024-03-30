@@ -2,8 +2,7 @@
 title: "Alchemist Research"
 date: 2024-03-22T17:04:00+06:00
 description: Introduction to Sample Post
-price: 150
-discount: 50
+price: 200
 menu:
   sidebar:
     name: Alchemist Research
